@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-common/spring-cloud-common.iml" filepath="$PROJECT_DIR$/spring-cloud-common/spring-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/spring-cloud-eureka-client7001.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client7001/spring-cloud-eureka-client7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client7002/spring-cloud-eureka-client7002.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client7002/spring-cloud-eureka-client7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client7003/spring-cloud-eureka-client7003.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client7003/spring-cloud-eureka-client7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-client9000/spring-cloud-feign-client9000.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-client9000/spring-cloud-feign-client9000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/spring-cloud-hystrixdash-client9002.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/spring-cloud-hystrixdash-client9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider-client8001/spring-cloud-provider-client8001.iml" filepath="$PROJECT_DIR$/spring-cloud-provider-client8001/spring-cloud-provider-client8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provider-client8002/spring-cloud-provider-client8002.iml" filepath="$PROJECT_DIR$/spring-cloud-provider-client8002/spring-cloud-provider-client8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/spring-cloud-ribbon-client9001.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon-client9001/spring-cloud-ribbon-client9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-server-config8888/spring-cloud-server-config8888.iml" filepath="$PROJECT_DIR$/spring-cloud-server-config8888/spring-cloud-server-config8888.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/spring-cloud-zipkin-client9003.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin-client9003/spring-cloud-zipkin-client9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/spring-cloud-zuul-client9527.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-client9527/spring-cloud-zuul-client9527.iml" />
+    </modules>
+  </component>
+</project>

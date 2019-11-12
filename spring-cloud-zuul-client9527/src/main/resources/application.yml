@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: microservicecloud-config-zuul-client9527

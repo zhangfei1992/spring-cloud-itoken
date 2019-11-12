@@ -1,0 +1,30 @@
+server: 
+  port: 8888
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  application:
+    name: microservicecloud-server-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zhangfei1992/microservicecloud-config.git
+    bus:
+      enabled: true
+      trace:
+        enabled: true
+  zipkin:
+    base-url: http://zipkin-9003.com:9003
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

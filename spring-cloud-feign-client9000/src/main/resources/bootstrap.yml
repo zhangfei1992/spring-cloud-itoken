@@ -1,0 +1,25 @@
+spring:
+  cloud:
+    config:
+      name: microservicecloud-config-feign-client9000     #需要从github上读取的资源名称，注意没有yml后缀名
+      profile: dev
+      label: master
+      uri: http://config-8888.com:8888      #SpringCloudConfig获取的服务地址
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+#ribbon请求处理的超时时间.
+#ribbon:
+#  ReadTimeout: 5000
+##ribbon请求连接的超时时间.
+#  ConnectionTimeout: 5000
+#
+###设置服务熔断超时时间[默认1s]
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 10000

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-common" />
+        <module name="spring-cloud-eureka-client7001" />
+        <module name="spring-cloud-eureka-client7002" />
+        <module name="spring-cloud-eureka-client7003" />
+        <module name="spring-cloud-feign-client9000" />
+        <module name="spring-cloud-hystrixdash-client9002" />
+        <module name="spring-cloud-provider-client8001" />
+        <module name="spring-cloud-provider-client8002" />
+        <module name="spring-cloud-ribbon-client9001" />
+        <module name="spring-cloud-server-config8888" />
+        <module name="spring-cloud-zipkin-client9003" />
+        <module name="spring-cloud-zuul-client9527" />
+        <module name="springcloudadminclient9000" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-common" target="1.8" />
+      <module name="spring-cloud-eureka-client7001" target="1.8" />
+      <module name="spring-cloud-eureka-client7002" target="1.8" />
+      <module name="spring-cloud-eureka-client7003" target="1.8" />
+      <module name="spring-cloud-feign-client9000" target="1.8" />
+      <module name="spring-cloud-hystrixdash-client9002" target="1.8" />
+      <module name="spring-cloud-parent" target="1.8" />
+      <module name="spring-cloud-provider-client8001" target="1.8" />
+      <module name="spring-cloud-provider-client8002" target="1.8" />
+      <module name="spring-cloud-ribbon-client9001" target="1.8" />
+      <module name="spring-cloud-server-config8888" target="1.8" />
+      <module name="spring-cloud-zipkin-client9003" target="1.8" />
+      <module name="spring-cloud-zuul-client9527" target="1.8" />
+      <module name="springcloudadminclient9000" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

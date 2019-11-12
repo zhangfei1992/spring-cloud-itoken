@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="providerclient8001.dao.DeptDao">
+
+	<select id="findById" resultType="Dept" parameterType="Long">
+		select dept_id,dpet_name from dept where dept_id=#{id};
+	</select>
+	<select id="findAll" resultType="Dept">
+		select dept_id,dept_name from dept;
+	</select>
+	<insert id="addDept" parameterType="Dept">
+		INSERT INTO dept(dpet_name) VALUES(#{dpet_name});
+	</insert>
+
+</mapper>
+ 
+

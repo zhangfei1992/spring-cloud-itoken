@@ -1,0 +1,18 @@
+spring:
+  cloud:
+    config:
+      name: microservicecloud-config-zipkin-client9003     #需要从github上读取的资源名称，注意没有yml后缀名
+      profile: dev
+      label: master
+      uri: http://config-8888.com:8888      #SpringCloudConfig获取的服务地址
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+# 关闭自动配置启用所有请求得检测
+management:
+  metrics:
+    web:
+      server:
+        # 避免访问 zipkin 页面报 java.lang.IllegalArgumentException
+        auto-time-requests: false

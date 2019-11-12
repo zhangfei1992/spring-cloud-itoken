@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-cloud-admin-client9000/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

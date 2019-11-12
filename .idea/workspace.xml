@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b4212b-b33d-4c58-a939-eff447dea5ca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-server-config8888/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-provider-client8001/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-common/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client7001/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client7002/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka-client7003/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-provider-client8002/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zuul-client9527/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-admin-client9000/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-feign-client9000/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-ribbon-client9001/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zipkin-client9003/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="211856422">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="3" />
+          <entry key="java" value="53" />
+          <entry key="pom" value="7" />
+          <entry key="xml" value="43" />
+          <entry key="yml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="53" />
+          <entry key="XML" value="50" />
+          <entry key="YAML" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="588" />
+          <entry key="xml" value="771" />
+          <entry key="yml" value="677" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="588" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="771" />
+          <entry key="YAML" value="677" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages">
+        <counts>
+          <entry key="RestClientRequestRunnerNavigator.fromCode" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1649832804">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/src/main/java/eurekaclient7001/SpringCloudEurekaClient7001Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1548">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1872">
+              <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/SpringCloudFeignClient9000Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/InfoClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zipkin</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8002/src/main/java/providerclient8002/SpringCloudProviderClient8002Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8002/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/config/WrapperResponseFilter.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-common/src/main/java/common/message/Msg.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/config/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/SpringCloudZuulClient9527Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-admin-client9000/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-admin-client9000/src/main/java/springcloudadmin/SpringCloudAdmin.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/MyFeignConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/config/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/InfoClient.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8002/src/main/java/providerclient8002/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/SpringCloudRibbonClient9001Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/service/ProviderService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/java/hystrixdashclient9002/SpringCloudHystrixdashClient9002Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/InfoClient.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/InfoFallBack.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/hystrix/InfoFallBack.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/hystrix/InfoFallBackImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/SpringCloudFeignClient9000Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/HystrixDashBoardConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/SpringCloudProviderClient8001Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/config/HystrixDashBoardConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/test/java/zipkinclient9003/SpringCloudZipkinClient9003ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/java/zipkinclient9003/SpringCloudZipkinClient9003Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-provider-client8002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client7001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client7002/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client7003/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign-client9000/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-server-config8888/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-server-config8888/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-client9527/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-zipkin-client9003" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-zipkin-client9003" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-client7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feignclient9000" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feignclient9000" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feignclient9000" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-feign-client9000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feignclient9000" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-server-config8888" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-server-config8888" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-server-config8888" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-server-config8888" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-zuul-client9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-zuul-client9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-zuul-client9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-zuul-client9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573004286146" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="providerclient8001.config" />
+      <recent name="common.message" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\分布式微服务系统-练习\Accpect_Majun-springcloud_mybatis-master\spring-cloud-parent\spring-cloud-zipkin-client9003\src\main\resources" />
+      <recent name="F:\分布式微服务系统-练习\Accpect_Majun-springcloud_mybatis-master\spring-cloud-parent\spring-cloud-hystrixdash-client9002\src\main\resources" />
+      <recent name="F:\分布式微服务系统-练习\Accpect_Majun-springcloud_mybatis-master\spring-cloud-parent\spring-cloud-ribbon-client9001\src\main\resources" />
+      <recent name="F:\分布式微服务系统-练习\Accpect_Majun-springcloud_mybatis-master\spring-cloud-parent\spring-cloud-feign-client9000\src\main\resources" />
+      <recent name="F:\分布式微服务系统-练习\Accpect_Majun-springcloud_mybatis-master\spring-cloud-parent\spring-cloud-zuul-client9527\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudZuulClient9527Application">
+    <configuration name="SpringCloudAdmin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudadminclient9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloudadmin.SpringCloudAdmin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudEurekaClient7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-client7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eurekaclient7001.SpringCloudEurekaClient7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudEurekaClient7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-client7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eurekaclient7002.SpringCloudEurekaClient7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudEurekaClient7003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-client7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eurekaclient7003.SpringCloudEurekaClient7003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudFeignClient9000Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-feign-client9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feignclient9000.SpringCloudFeignClient9000Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudHystrixdashClient9002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-hystrixdash-client9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hystrixdashclient9002.SpringCloudHystrixdashClient9002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudProviderClient8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-provider-client8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="providerclient8001.SpringCloudProviderClient8001Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudProviderClient8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-provider-client8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="providerclient8002.SpringCloudProviderClient8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudRibbonClient9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-ribbon-client9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ribbonclient9001.SpringCloudRibbonClient9001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudServerConfig8888Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-server-config8888" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="serverconfig8888.SpringCloudServerConfig8888Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudZipkinClient9003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zipkin-client9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkinclient9003.SpringCloudZipkinClient9003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudZuulClient9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zuul-client9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zuulclient9527.SpringCloudZuulClient9527Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringCloudServerConfig8888Application" />
+      <item itemvalue="Spring Boot.SpringCloudProviderClient8001Application" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaClient7001Application" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaClient7002Application" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaClient7003Application" />
+      <item itemvalue="Spring Boot.SpringCloudProviderClient8002Application" />
+      <item itemvalue="Spring Boot.SpringCloudZuulClient9527Application" />
+      <item itemvalue="Spring Boot.SpringCloudAdmin" />
+      <item itemvalue="Spring Boot.SpringCloudFeignClient9000Application" />
+      <item itemvalue="Spring Boot.SpringCloudRibbonClient9001Application" />
+      <item itemvalue="Spring Boot.SpringCloudHystrixdashClient9002Application" />
+      <item itemvalue="Spring Boot.SpringCloudZipkinClient9003Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b4212b-b33d-4c58-a939-eff447dea5ca" name="Default Changelist" comment="" />
+      <created>1571796790726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571796790726</updated>
+      <workItem from="1571796799712" duration="70318000" />
+      <workItem from="1572939384101" duration="2413000" />
+      <workItem from="1573006469652" duration="587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73318000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5731311" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.36353946" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-admin-client9000/src/main/java/spring-cloud-parent/App.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-admin-client9000/src/main/java/springcloudadmin/SpringCloudAdmin.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-admin-client9000/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/SpringCloudZuulClient9527Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" selection-start-line="13" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/java/zuulclient9527/config/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8002/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8002/src/main/java/providerclient8002/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1507">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/SpringCloudRibbonClient9001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-ribbon-client9001/src/main/java/ribbonclient9001/service/ProviderService.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/src/main/java/hystrixdashclient9002/SpringCloudHystrixdashClient9002Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/hystrix/InfoFallBackImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/MyFeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/config/HystrixDashBoardConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/SpringCloudProviderClient8001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8001/src/main/java/providerclient8001/config/HystrixDashBoardConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/spring-cloud-zipkin-client9003.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/test/java/zipkinclient9003/SpringCloudZipkinClient9003ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/io/zipkin/java/zipkin-autoconfigure-ui/2.12.5/zipkin-autoconfigure-ui-2.12.5.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/java/zipkinclient9003/SpringCloudZipkinClient9003Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-zipkin/2.1.3.RELEASE/spring-cloud-starter-zipkin-2.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="149" column="42" lean-forward="true" selection-start-line="149" selection-start-column="42" selection-end-line="149" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7003/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-hystrixdash-client9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-provider-client8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-server-config8888/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-server-config8888/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zipkin-client9003/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/src/main/java/eurekaclient7001/SpringCloudEurekaClient7001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka-client7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zuul-client9527/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/SpringCloudFeignClient9000Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-feign-client9000/src/main/java/feignclient9000/service/InfoClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-cloud-parent:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-cloud-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
